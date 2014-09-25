@@ -1,0 +1,6 @@
+$include /etc/inputrc
+
+$if Python
+"\M-i": "    "
+"\M-u": "\d\d\d\d"
+$endif
